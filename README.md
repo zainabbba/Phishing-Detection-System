@@ -37,3 +37,8 @@ This project aims to **automate phishing detection** by analyzing website URLs a
 
 ---
 
+## ⚙️ How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/zainabbba/Phishing-Detection-System.git
+   cd Phishing-Detection-System
